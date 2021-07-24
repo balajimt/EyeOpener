@@ -9,10 +9,21 @@ As a part of a Microsoft hackathon, [Jaga](https://www.linkedin.com/in/jagadeesh
 ## Steps
 * Data collection: We created a custom dataset of currency notes sourced from [Mendeley dataset](https://data.mendeley.com/datasets/48ympv8jjf/1) and own photographs. The photographs of individual currency notes (denominations of Rs 5,10,20,50,100,500,2000) was pooled with the help of my generous classmates from CSE G2, Batch of 2019 - PSG College of Technology (Special thanks to them!)
 * Data augmentation: We augmented the data by changing the brightness, contrast, lumination and rotation angles.
-* Model training: The model training phase happened using the Microsoft Custom Vision Service. We exported the trained model so that the app could be used *offline*.
+* Model training: The model training phase happened using the Microsoft Custom Vision Service. The trained model is exported offline.
 * The exported model was incorporated into an android application with the frontend and backend being written in Java.
 
-## Demo
+## Voice commands
+The app recognizes a predefined set of voice commands:
+* For currency identification Module: Voice commands should contain "currency" or "money"
+* For coin identification: Voice commands should contain "coin"
+* For QR code identification and alignment: Voice commands should contain "qr"
+* For bill reader: Voice command should contain "bill" or "receipt"
+* For help: Voice commands should contain "help"
+* For knowing the creators: You can ask the app "Who created you?"
 
+## Demo
 [![EyeOpener Demo](https://img.youtube.com/vi/GQrzBC7pMx8/0.jpg)](https://www.youtube.com/watch?v=GQrzBC7pMx8)
 * [EyeOpener Demo](https://www.youtube.com/watch?v=GQrzBC7pMx8)
+
+
+
