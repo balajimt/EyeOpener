@@ -22,7 +22,7 @@ The app recognizes a predefined set of voice commands:
 * For knowing the creators: You can ask the app "Who created you?"
 
 ## Demo
-[![EyeOpener Demo](https://img.youtube.com/vi/GQrzBC7pMx8/0.jpg)](https://www.youtube.com/watch?v=GQrzBC7pMx8)
-* [EyeOpener Demo](https://www.youtube.com/watch?v=GQrzBC7pMx8)
+[![YouTube demo](https://img.youtube.com/vi/GQrzBC7pMx8/0.jpg)](https://www.youtube.com/watch?v=GQrzBC7pMx8)
+* [YouTube demo](https://www.youtube.com/watch?v=GQrzBC7pMx8)
 * Run it on your own - [apk](https://github.com/balajimt/EyeOpener/blob/master/EyeOpener.apk)
 
