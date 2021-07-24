@@ -1,5 +1,5 @@
 # EyeOpener
-As a part of a Microsoft hackathon, [Jaga](https://www.linkedin.com/in/jagadeeshwaranv/), [Varsha](https://www.linkedin.com/in/varsha-venkatakrishnan-80702117a/) and I developed an android application that helped align QR codes, read bills,identify currency notes and coins for the visually-impaired using a voice controlled navigation.<br><br>
+As a part of a Microsoft hackathon, [Jaga](https://www.linkedin.com/in/jagadeeshwaranv/), [Varsha](https://www.linkedin.com/in/varsha-venkatakrishnan-80702117a/) and I developed an android application that helped align QR codes, read bills, identify currency notes and coins for the visually-impaired using a voice controlled navigation.<br><br>
 
 ## Technologies used
 * Android
