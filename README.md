@@ -15,3 +15,4 @@ As a part of a Microsoft hackathon, [Jaga](https://www.linkedin.com/in/jagadeesh
 ## Demo
 
 [![EyeOpener Demo](https://img.youtube.com/vi/GQrzBC7pMx8/0.jpg)](https://www.youtube.com/watch?v=GQrzBC7pMx8)
+_Click to view demo_
