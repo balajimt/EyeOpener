@@ -12,3 +12,6 @@ As a part of a Microsoft hackathon, [Jaga](https://www.linkedin.com/in/jagadeesh
 * Model training: The model training phase happened using the Microsoft Custom Vision Service. We exported the trained model so that the app could be used *offline*.
 * The exported model was incorporated into an android application with the frontend and backend being written in Java.
 
+## Demo
+
+[![EyeOpener Demo](https://img.youtube.com/vi/GQrzBC7pMx8/0.jpg)](https://www.youtube.com/watch?v=GQrzBC7pMx8)
